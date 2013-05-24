@@ -214,7 +214,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#66aad7d0', e
 }
 
 
-
+#user_contact{
+ 	border: 5px solid #FFFFFF;
+    border-radius: 5px 5px 5px 5px;
+    margin-right: 10px;
+	height:80px;
+}
 
 
 #noticia_right{

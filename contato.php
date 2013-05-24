@@ -23,6 +23,7 @@
                 
                 <table id="tabela_contato">                
                   <tr>
+                  	<td rowspan="4" align="left"><img src="imgs/photo/perfil/dhai.jpg" alt="" id="user_contact" /></td>
                     <td align="center"><img src="imgs/icon/tel.png" alt="" title="Telefone"/></td>
                     <th align="right">Telefone:</th>
                     <td align="left">(27) 3229 - 0000</td>
@@ -53,6 +54,7 @@
                 
                 <table id="tabela_contato">                
                   <tr>
+                  	<td rowspan="4" align="left"><img src="imgs/photo/perfil/acsa.jpg" alt="" id="user_contact" /></td>
                     <td align="center"><img src="imgs/icon/tel.png" alt="" title="Telefone"/></td>
                     <th align="right">Telefone:</th>
                     <td align="left">(27) 3229 - 0000</td>
